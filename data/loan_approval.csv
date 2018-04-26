@@ -1,0 +1,16 @@
+ID,Age,Work,House,loan,approval
+1,Young,No,No,normal,No
+2,Young,No,No,Fair,No
+3,Young,Yes,No,Fair,Yes
+4,Young,Yes,Yes,normal,Yes
+5,Young,No,No,normal,No
+6,Middle,No,No,normal,No
+7,Middle,No,No,Fair,No
+8,Middle,Yes,Yes,Fair,Yes
+9,Middle,No,Yes,perfect,Yes
+10,Middle,No,Yes,perfect,Yes
+11,Old,No,Yes,perfect,Yes
+12,Old,No,Yes,Fair,Yes
+13,Old,Yes,No,Fair,Yes
+14,Old,Yes,No,perfect,Yes
+15,Old,No,No,normal,No
